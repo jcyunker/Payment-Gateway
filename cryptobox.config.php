@@ -3,10 +3,10 @@
  *  YOUR MYSQL DATABASE DETAILS
  */
 
- define("DB_HOST", 	"localhost");				// hostname
- define("DB_USER", 	"-Please Enter Username-");		// database username
- define("DB_PASSWORD", 	"-Please Enter Password-");		// database password
- define("DB_NAME", 	"-Please Enter Database Name-");	// database name
+ define("DB_HOST", 	"cryptbroker.com");				// hostname
+ define("DB_USER", 	"-cryp2406220237-");		// database username
+ define("DB_PASSWORD", 	"-hvwM4#Twz_Q-");		// database password
+ define("DB_NAME", 	"-cryp2406220237-");	// database name
 
 
 
@@ -17,7 +17,7 @@
  *  array("your_privatekey_for_box1", "your_privatekey_for_box2 (otional), etc...");
  */
 
- $cryptobox_private_keys = array();	
+ $cryptobox_private_keys = array(241AAiS5vhBitcoin77BTCPRVsrAwZWLYqq2IqLei3SkLEvfFA);	
  
 
 
